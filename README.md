@@ -4,11 +4,11 @@ Assignment for NLP Course to preprocess and analyse the sentiment of tweets.
 
 The aim of this is to interpret which model captures words and related concepts in a coherent manner, and will be done through a series of steps; namely:
 
-- [] Preprocessing
-- [] Word Embedding Models (Word2Vec CBOW/Skip-gram, GloVe)
-- [] Comparative Analysis
-- [] Visualisation
-- [] Evaluation
+- [ ] Preprocessing
+- [ ] Word Embedding Models (Word2Vec CBOW/Skip-gram, GloVe)
+- [ ] Comparative Analysis
+- [ ] Visualisation
+- [ ] Evaluation
 
 ## Libraries to be used
 
